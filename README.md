@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>Data Cleaning using SQl</b>
-  - [Data Cleaning using SQL](https://github.com/Gbadamosiayomide/DATA-CLEANING-AND-VISUALIZATION-OF-A-UDEMY-COURSE-DATASET)
+  - [Data Cleaning using SQL](https://github.com/Gbadamosiayomide/Data-Cleaning-with-SQL)
 - <b>Exploring Countries in the World</b>
   - [Data Visulization with PowerBI](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b> Data Cleaning and visualization using power BI</b>
